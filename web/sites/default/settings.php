@@ -833,9 +833,9 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'DB_NAME',
-  'username' => 'DB_USERNAME',
-  'password' => 'DB_PASSWORD',
+  'database' => 'drupal_integrations',
+  'username' => 'root',
+  'password' => 'Mridul@570947@*',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
